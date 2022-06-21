@@ -30,3 +30,4 @@ rm -rf ./package/ssr/v2ray-geodata
 # rm -rf ./feeds/packages/net/https-dns-proxy
 # svn co https://github.com/Lienol/openwrt-packages/trunk/net/https-dns-proxy feeds/packages/net/https-dns-proxy
 # curl -fsSL  https://raw.githubusercontent.com/coolsnowwolf/packages/master/net/adguardhome/Makefile > ./package/diy-ziyong/adguardhome/Makefile
+git clone https://github.com/destan19/OpenAppFilter package/OpenAppFilter
